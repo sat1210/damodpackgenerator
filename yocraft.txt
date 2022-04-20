@@ -1,0 +1,102 @@
+//tech
+cc tweaked -- computer n shit
+	version 1.18.2
+	https://www.curseforge.com/minecraft/mc-mods/cc-tweaked/files/3709268
+mekanism -- machines n shit
+	version 1.18.2
+	https://www.curseforge.com/minecraft/mc-mods/mekanism/files/3743835
+create -- machines n shit
+	version 1.18.2
+	https://www.curseforge.com/minecraft/mc-mods/create/files/3737418
+	dependency
+	https://www.curseforge.com/minecraft/mc-mods/flywheel/files/3737402
+thermal expansion -- machines n shit
+	version 1.16.5
+	https://www.curseforge.com/minecraft/mc-mods/thermal-expansion
+super circuit maker -- redstone
+	version 1.18.2
+	https://www.curseforge.com/minecraft/mc-mods/super-circuit-maker
+
+immersive engineering
+	version 1.18.2
+	https://www.curseforge.com/minecraft/mc-mods/immersive-engineering/files
+rftools
+	version 1.18.2
+	https://www.curseforge.com/minecraft/mc-mods/rftools-base
+rftools dimensions
+	version 1.18.2
+	https://www.curseforge.com/minecraft/mc-mods/rftools-dimensions
+rftools control
+	version 1.18.2
+	https://www.curseforge.com/minecraft/mc-mods/rftools-control/files
+
+
+//improvements
+just enough items -- crafting recipe menu
+	version 1.18.2
+	https://www.curseforge.com/minecraft/mc-mods/jei/files/3758750
+appleskin -- better hunger bar
+	version 1.18.2
+	https://www.curseforge.com/minecraft/mc-mods/appleskin/files/3686482
+journey map -- map
+	version 1.18.2
+	https://www.curseforge.com/minecraft/mc-mods/journeymap/files/3756050
+Simple Voice Chat -- proximity voice chat
+	version 1.18.2
+	https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/3757130
+ai improvements
+	version 1.18.2
+	https://www.curseforge.com/minecraft/mc-mods/ai-improvements/files/3543562
+
+
+//storage
+sophisticated backpacks -- backpack
+	version 1.18.2
+	https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks/files/3699216
+
+
+//exploration
+biomes o plenty
+	version 1.18.2
+	https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/files/3683452
+
+quark
+	version 1.18.2
+	https://www.curseforge.com/minecraft/mc-mods/quark/files/3756221
+waystones -- teleport
+	version 1.18.2
+	https://www.curseforge.com/minecraft/mc-mods/waystones/files/3684732
+
+
+
+//building
+elevators
+	version 1.18.2
+	https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator/files
+
+
+//magic
+ars nouveau -- custom spells
+	version 1.18.2
+	https://www.curseforge.com/minecraft/mc-mods/ars-nouveau/files/3757209
+botania
+	version 1.18.2
+	https://www.curseforge.com/minecraft/mc-mods/botania
+
+
+wait for 1.18.2 version todo
+tinkers construct -- custom tools
+	version 1.18.1
+	https://www.curseforge.com/minecraft/mc-mods/tinkers-construct/files/3693992
+twilight
+	version 1.17.1
+	https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest/files
+ender storage
+	version 1.16.5
+	https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8/files
+applied energistics 2
+	version 1.18.1
+	https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2
+oh the biomes youll go
+	version 1.18.2 beta
+	https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go/files
