@@ -20,5 +20,5 @@ for root, dirs, files in os.walk("./parts"):
             links = json.load(file)
             file.close()
         for link in links:
-            print(link)
-            # webbrowser.open(get_download_link(link))
+            webbrowser.open(get_download_link(link))
+            # print(link)
