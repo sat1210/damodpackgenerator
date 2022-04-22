@@ -11,9 +11,11 @@ from bs4 import BeautifulSoup
 #https://edge.forgecdn.net/files/3441/117/iceandfire-2.1.9-1.16.5.jar
 
 mod_count = 0
+count_only = False
 
 def get_download_link(file_link):
     splitted = file_link.split("/")
+    print("downloading " + splitted[3])
     splitted[4] = "download"
     splitted.append("file")
     return "/".join(splitted)
@@ -24,11 +26,14 @@ for root, dirs, files in os.walk("./parts"):
             links = json.load(file)
             file.close()
         for link in links:
-            webbrowser.open(get_download_link(link))
-            time.sleep(0.5)
+            if not count_only:
+                webbrowser.open(get_download_link(link))
+                time.sleep(2.0)
             mod_count += 1
-        time.sleep(2.0)
+        if not count_only:
+            time.sleep(5.0)
 
+print(mod_count)
             # page = requests.get("https://" + link)
             # soup = BeautifulSoup(page.content, "html.parser")
             # file_name = soup.find_all("span", {"class": "text-sm"})
