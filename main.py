@@ -10,6 +10,8 @@ from bs4 import BeautifulSoup
 #https://media.forgecdn.net/files/3441/117/iceandfire-2.1.9-1.16.5.jar
 #https://edge.forgecdn.net/files/3441/117/iceandfire-2.1.9-1.16.5.jar
 
+mod_count = 0
+
 def get_download_link(file_link):
     splitted = file_link.split("/")
     splitted[4] = "download"
@@ -24,6 +26,7 @@ for root, dirs, files in os.walk("./parts"):
         for link in links:
             webbrowser.open(get_download_link(link))
             time.sleep(0.5)
+            mod_count += 1
         time.sleep(2.0)
 
             # page = requests.get("https://" + link)
